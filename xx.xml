@@ -1,0 +1,45 @@
+<data>
+	<sl>
+		<Answer>
+			<c>
+				<string>1</string>
+			</c>
+			<o>
+				<string>50%千克</string>
+				<string>$%%frac{4}{5}$千克</string>
+				<string>5000%千克</string>
+				<string>$%%frac{4}{5}$克</string>
+			</o>
+		</Answer>
+	</sl>
+	<sl>
+		<Answer>
+			<c>
+				<string>3</string>
+			</c>
+			<o>
+				<string>只有③④</string>
+				<string>只有②③④</string>
+				<string>只有①②</string>
+				<string>只有②</string>
+			</o>
+		</Answer>
+	</sl>
+	<sl>
+		<Answer>
+			<c>
+				<string>2</string>
+			</c>
+			<o>
+				<string>N</string>
+				<string>R</string>
+				<string>∁&lt;SUB&gt;N&lt;/SUB&gt;（N*）</string>
+				<string>Q</string>
+			</o>
+		</Answer>
+	</sl>
+
+
+
+
+</data>
